@@ -1,0 +1,8 @@
+#CocoaPods
+Pods/
+Pods
+.DS_Store
+Podfile.lock
+/.DS_Store
+Podfile.lock
+/Podfile.lock
